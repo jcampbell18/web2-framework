@@ -7,5 +7,8 @@ Winter 2019 Web 2 Starter. Our DIY framework.
 
 ## Misc References
 
-[favicons](https://realfavicongenerator.net/)
-[typography](https://www.modularscale.com/)
+- [favicons](https://realfavicongenerator.net/)
+
+- [typography](https://www.modularscale.com/)
+
+- [fonts](https://fonts.google.com/)
